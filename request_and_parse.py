@@ -4,7 +4,10 @@ from bs4 import BeautifulSoup
 
 # define the url
 # FILL IN before running the code
-url = "https://www.feedbooks.com/search?cat=FBFIC016000&query=feedbooks"
+# url = "https://www.geeksforgeeks.org/data-structures/"
+# url = "https://catalog.feedbooks.com/search?cat=FBFIC016000&query=feedbooks"
+url = "https://mb-vnext-identity.sharedo.tech/login?signin=3eff1164299aaa33167be614c36ae18d"
+
 
 # send a request to get html code from that url
 # uncomment the following line and replace with your code
