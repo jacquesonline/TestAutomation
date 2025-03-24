@@ -14,3 +14,6 @@ response = requests.get(base_url, params=parameters)
 
 # print out the response URL
 print(response.url)
+print(response.status_code)
+print(response.text)
+# print out text from API response
