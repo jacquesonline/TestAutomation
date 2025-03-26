@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Navigate to the project directory
-cd /c/Users/jcste/Projects/TestAutomation
-
 # Add all files to git
 git add .
 
